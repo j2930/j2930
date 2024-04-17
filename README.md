@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on...front-End
 - 📫 How to reach me ...@jaque.uchoa
 - 😄 Pronouns: ...jack
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...Tennis Player
 
 <!---
 j2930/j2930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
