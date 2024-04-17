@@ -2,8 +2,8 @@
 - 👀 I’m interested in ...create projects
 - 🌱 I’m currently learning ...HTML/CSS,JavaScript,Python,PHP,Ruby,Outsystems
 - 💞️ I’m looking to collaborate on...front-End
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...@jaque.uchoa
+- 😄 Pronouns: ...jack
 - ⚡ Fun fact: ...
 
 <!---
